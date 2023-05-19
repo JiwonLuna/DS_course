@@ -2,4 +2,4 @@
 
 Data structure course
 
-Homework and practice 
+Homeworks and practices 
